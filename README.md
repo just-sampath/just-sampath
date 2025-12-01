@@ -11,12 +11,8 @@ Things I like:
 
 Always experimenting with: **Node.js**, **Python**, **MongoDB**, **vector DBs**, and **AWS**.
 
----
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/just-sampath)
-
----
 
 ## 💻 Tech Stack
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
