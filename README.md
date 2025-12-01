@@ -1,9 +1,27 @@
-# 💫 About Me:
-I am a backend software developer specializing in building AI-powered solutions that streamline workflows, particularly through Slack-integrated agents. With experience in Python, FastAPI, and AWS, I focus on designing sustainable systems and applying prompt engineering to optimize AI interactions. My current role involves backend integration and feature development, with an emphasis on effective documentation and testing. I'm passionate about continuous learning, enhancing communication skills, and finding a balanced work-life routine in a primarily remote environment.
+# 👋 Hey, I'm Sampath
 
+Backend & LLM tinkerer who enjoys turning messy text into useful answers.  
+I mostly live in terminal land, wiring up **RAG chatbots**, **Slack / Teams bots**, and **tiny AWS-powered services**.
 
-## 🌐 Socials:
+Things I like:
+- Clean APIs and predictable systems  
+- Good logs over wild guessing  
+- Making slow things faster  
+- Not breaking prod on Fridays
+
+Always experimenting with: **Node.js**, **Python**, **MongoDB**, **vector DBs**, and **AWS**.
+
+---
+
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/just-sampath)
 
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
+
+## 💻 Tech Stack
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
