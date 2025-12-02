@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sampath
 
-Backend & LLM tinkerer who enjoys solving real problems ~I~ We face😁  
+Backend & LLM tinkerer who enjoys solving real problems ~I~ we face😁  
 I mostly live in terminal land, wiring up **Scalable backend services**, **RAG chatbots**, **Slack / Teams bots**, and **tiny AWS-powered services**.
 
 Things I like:
