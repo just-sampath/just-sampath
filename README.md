@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Sampath
 
 Backend & LLM tinkerer who enjoys turning messy text into useful answers.  
-I mostly live in terminal land, wiring up **RAG chatbots**, **Slack / Teams bots**, and **tiny AWS-powered services**.
+I mostly live in terminal land, wiring up **Scalable backend services**, **RAG chatbots**, **Slack / Teams bots**, and **tiny AWS-powered services**.
 
 Things I like:
 - Clean APIs and predictable systems  
