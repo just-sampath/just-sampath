@@ -10,14 +10,6 @@ Most of my work happens in terminal land, where I build:
 * Event-driven systems using **AWS Lambda, SQS, Step Functions and ECS**
 * Reliable document ingestion pipelines backed by **MongoDB, Redis and vector databases**
 
-## ⚙️ What I care about
-
-* Clean APIs and predictable systems
-* Good observability instead of production guesswork
-* Making slow systems measurably faster
-* Designing AI workflows that remain deterministic and reliable
-* Not breaking production on Fridays
-
 ## 🚀 A few things I've worked on
 
 * Reduced enterprise RAG response latency by **more than 60%**
