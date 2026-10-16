@@ -1,42 +1,33 @@
-# 👋 Hey, I'm Sampath
+<a href="https://just-sampath.in">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img src="assets/header-light.svg" width="100%" alt="Sampath: full stack and applied AI engineer, backend and system design at heart. Now: making AI systems reliable and cost-effective at scale. Sketch: a request passes a boundary with a time and cost budget, the model suggests, code checks and decides, with a bounded number of retries, to a reliable answer, and every step reports traces, latency, cost and answer quality to an observability lane.">
+  </picture>
+</a>
 
-I'm a **Backend & AI Systems Engineer** building production-grade backend platforms, RAG applications, agentic workflows and cloud-native infrastructure.
+I'm a full stack and applied AI engineer who keeps drifting toward the backend: APIs, queues, data,
+and how it all holds up under load. I like taking new tech apart to see how it behaves, usually on a weekend,
+usually in one of the repos below. I keep starting new ones, so that list will probably be out of
+date soon 😅
 
-Most of my work happens in terminal land, where I build:
+My take on AI systems is plain system design: **clear boundaries**, **bounded retries**, **a budget
+for every request**, **observability from day one**, and **measurements over vibes**. The budget
+covers time as well as cost, because a right answer that shows up too late is still a bad answer.
+None of it works if you can't see it, so every step gets traced: where the time went, what it cost,
+and whether the answer was any good. The sketch above shows the same idea.
 
-* Scalable backend services with **Node.js, Python and FastAPI**
-* Production **RAG systems** with hybrid retrieval, reranking and evaluation
-* AI-powered **Slack and Microsoft Teams applications**
-* Event-driven systems using **AWS Lambda, SQS, Step Functions and ECS**
-* Reliable document ingestion pipelines backed by **MongoDB, Redis and vector databases**
+### Things I'm poking at
 
-## 🚀 A few things I've worked on
+<a href="https://github.com/just-sampath/adaptive-deterministic-rag"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-adaptive-deterministic-rag-dark.svg"><img src="assets/card-adaptive-deterministic-rag-light.svg" width="49%" alt="adaptive-deterministic-rag: RAG where code, not the model, makes the decisions"></picture></a>
+<a href="https://github.com/just-sampath/ats-resume-maker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ats-resume-maker-dark.svg"><img src="assets/card-ats-resume-maker-light.svg" width="49%" alt="ats-resume-maker: an AI skill that tailors résumés without inventing facts"></picture></a>
+<a href="https://github.com/just-sampath/leetcode-guider"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-leetcode-guider-dark.svg"><img src="assets/card-leetcode-guider-light.svg" width="49%" alt="leetcode-guider: an AI coach that won't just hand you the answer"></picture></a>
+<a href="https://github.com/just-sampath/get-GO-ing"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-get-GO-ing-dark.svg"><img src="assets/card-get-GO-ing-light.svg" width="49%" alt="get-GO-ing: learning Go, the Go way"></picture></a>
 
-* Reduced enterprise RAG response latency by **more than 60%**
-* Delivered a modular, model-agnostic banking RAG system to production in **5 days**
-* Built ingestion and retrieval systems for knowledge from **50+ enterprise sources**
-* Designed zero-downtime Qdrant infrastructure with buffered writes and health-gated cutovers
-* Built agentic workflows for ticket creation, scheduling, reporting and CRM operations
+### Toolbox
 
-## 🛠️ Tech Stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg">
+  <img src="assets/toolbox-light.svg" width="100%" alt="Toolbox. Build: Python, TypeScript, Node.js, FastAPI, Express. Store: MongoDB, PostgreSQL, Redis, Qdrant, Pinecone. Run: AWS, Azure Functions, Docker, BullMQ. Think: Claude, OpenAI, LangGraph, LlamaIndex. Learning: Go.">
+</picture>
 
-### Languages and Backend
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-
-### Data, AI and Infrastructure
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge\&logo=qdrant\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-
-## 🌐 Find me online
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-just--sampath.in-111111?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://just-sampath.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-just--sampath-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/just-sampath)
+<sub>Work history and résumé live at <a href="https://just-sampath.in">just-sampath.in</a> · <a href="https://linkedin.com/in/just-sampath">LinkedIn</a></sub>
