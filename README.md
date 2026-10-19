@@ -19,7 +19,7 @@ and whether the answer was any good. The sketch above shows the same idea.
 ### Things I'm poking at
 
 <a href="https://github.com/just-sampath/adaptive-deterministic-rag"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-adaptive-deterministic-rag-dark.svg"><img src="assets/card-adaptive-deterministic-rag-light.svg" width="49%" alt="adaptive-deterministic-rag: RAG where code, not the model, makes the decisions"></picture></a>
-<a href="https://github.com/just-sampath/frontend-learning-platform"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-frontend-learning-platform-dark.svg"><img src="assets/card-frontend-learning-platform-light.svg" width="49%" alt="frontend-learning-platform: turns a 14-week frontend handbook into a daily plan"></picture></a>
+<a href="https://github.com/just-sampath/paydown"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-paydown-dark.svg"><img src="assets/card-paydown-light.svg" width="49%" alt="paydown: floating-rate home-loan tracker with what-if scenarios"></picture></a>
 <a href="https://github.com/just-sampath/leetcode-guider"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-leetcode-guider-dark.svg"><img src="assets/card-leetcode-guider-light.svg" width="49%" alt="leetcode-guider: an AI coach that won't just hand you the answer"></picture></a>
 <a href="https://github.com/just-sampath/get-GO-ing"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-get-GO-ing-dark.svg"><img src="assets/card-get-GO-ing-light.svg" width="49%" alt="get-GO-ing: learning Go, the Go way"></picture></a>
 

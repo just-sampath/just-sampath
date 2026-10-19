@@ -123,8 +123,8 @@ def header(name, t):
 CARDS = [
     ("adaptive-deterministic-rag", "RAG where code, not the model, makes the decisions",
      "hybrid search · faithfulness checks · 98% test coverage", "Python", "#3572A5"),
-    ("frontend-learning-platform", "Turns a 14-week frontend handbook into a daily plan",
-     "typed Markdown → JSON compiler · a11y + mobile tests", "TypeScript", "#3178c6"),
+    ("paydown", "Floating-rate home-loan tracker with what-if scenarios",
+     "encrypted private data · leak check in CI · live demo", "TypeScript", "#3178c6"),
     ("leetcode-guider", "An AI coach that won't just hand you the answer",
      "Chrome extension · works with 5 LLM providers", "JavaScript", "#f1e05a"),
     ("get-GO-ing", "Learning Go, the Go way",
